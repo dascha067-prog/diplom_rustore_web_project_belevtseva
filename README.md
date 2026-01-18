@@ -156,9 +156,14 @@
 
 ### [Ссылка на задачу в Jira](https://jira.autotests.cloud/browse/HOMEWORK-1568)
 
+---
+
 ### <img src="media/icons/tg.png" width="30"> Оповещение о результатах прогона тестов в Telegram
 
 ![Screenshot_11.png](media/image/Screenshot_11.png)
 
+---
+
 ### Пример видео прохождения ui-автотеста
+
 ![8fb61d61c7a69a9c6a27f182c6ccb4ce-ezgif.com-crop.gif](media/image/8fb61d61c7a69a9c6a27f182c6ccb4ce-ezgif.com-crop.gif)
