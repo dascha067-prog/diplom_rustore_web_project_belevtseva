@@ -118,8 +118,10 @@
 ![Screenshot_2.png](media/image/Screenshot_2.png)
 ![Screenshot_3.png](media/image/Screenshot_3.png)
 ![Screenshot_4.png](media/image/Screenshot_4.png)
+
 Отчет позволяет получить детальную информацию по все шагам тестов, включая скриншоты, log - файлы и видео о прохождение
 теста,а так же позволяет оперативно понять причину падения теста.
+
 ---
 
 ### <img src="media/icons/allure_testops.png" width="30 "> Интеграция с Allure
@@ -156,6 +158,8 @@
 
 ### [Ссылка на задачу в Jira](https://jira.autotests.cloud/browse/HOMEWORK-1568)
 
+![Screenshot_13.png](media/image/Screenshot_13.png)
+![Screenshot_14.png](media/image/Screenshot_14.png)
 ---
 
 ### <img src="media/icons/tg.png" width="30"> Оповещение о результатах прогона тестов в Telegram
