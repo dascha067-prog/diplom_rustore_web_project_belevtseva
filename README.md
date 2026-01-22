@@ -1,6 +1,8 @@
 <h1> Проект по тестированию web-приложения "RuStore"
 
+
 > <a target="_blank" href="https://www.rustore.ru/">Ссылка на сайт</a>
+
 
 ![Screenshot_12.png](media/image/Screenshot_12.png)
 
