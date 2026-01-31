@@ -5,10 +5,8 @@ from selene import browser, be, query
 class AppPage:
     title = browser.element('h1')
 
-    # Кнопка "Установить с помощью RuStore" (стабильный data-testid)
     install_with_rustore = browser.element('[data-testid="deepLinkButton"]')
 
-    # QR flow
     qr_button = browser.element('[data-testid="qr-button"]')
     qr_modal = browser.element('[data-testid="qr-tooltip"]')
     qr_text = browser.element('//*[contains(text(),"Наведите камеру")]')

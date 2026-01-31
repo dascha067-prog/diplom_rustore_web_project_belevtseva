@@ -35,6 +35,7 @@
 <h3> Список проверок, реализованных в автотестах:</h3>
 
 <a id="ui-tests"></a>
+
 ### UI-тесты
 
 ✅Проверка главной страницы RuStore
@@ -55,6 +56,7 @@
 
 ---
 <a id="tools"></a>
+
 ### Проект реализован с использованием:
 
 <p>
@@ -93,6 +95,7 @@
 
 ---
 <a id="jenkins"></a>
+
 ### <img width="30" title="Jenkins" src="media/icons/jenkins.png"> Удаленный запуск автотестов выполняется на сервере Jenkins
 
 ### [Ссылка на сборку в Jenkins](https://jenkins.autotests.cloud/job/diplom_rustore_web_project_belevtseva/)
@@ -111,6 +114,7 @@
 <a id="allure"></a>
 
 ### <img src="media/icons/allure_report.png" width="30">  Allure отчет
+
 ### [Ссылка на проект в Allure](
 
 #### Формирование отчета:
@@ -129,6 +133,7 @@
 
 ---
 <a id="allure-testops"></a>
+
 ### <img src="media/icons/allure_testops.png" width="30 "> Интеграция с Allure
 
 ### [Ссылка на проект в Allure TestOps](https://allure.autotests.cloud/project/5085/dashboards)
@@ -159,6 +164,7 @@
 
 ---
 <a id="jira"></a>
+
 ### <img src="media/icons/jira.png" width="30"> Интеграция с Jira
 
 ### [Ссылка на задачу в Jira](https://jira.autotests.cloud/browse/HOMEWORK-1568)
@@ -167,12 +173,14 @@
 ![Screenshot_14.png](media/image/Screenshot_14.png)
 ---
 <a id="telegram"></a>
+
 ### <img src="media/icons/tg.png" width="30"> Оповещение о результатах прогона тестов в Telegram
 
 ![Screenshot_11.png](media/image/Screenshot_11.png)
 
 ---
-<a id="video"></a> 
+<a id="video"></a>
+
 ### Пример видео прохождения ui-автотеста
 
 ![4b67ec8a07191a074f158f2e64f2633d-ezgif.com-video-to-gif-converter.gif](media/image/4b67ec8a07191a074f158f2e64f2633d-ezgif.com-video-to-gif-converter.gif)
