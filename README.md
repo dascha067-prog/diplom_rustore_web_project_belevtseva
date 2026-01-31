@@ -144,14 +144,23 @@
 
 #### Общий список всех тест-кейсов
 
+![Screenshot_6.png](media/image/Screenshot_6.png)
+
 #### Автоматизированные и ручные тесты хранятся в одной директории
+
+![Screenshot_7.png](media/image/Screenshot_7.png)
 
 #### Пример отчёта выполнения одного из автотестов
 
+![Screenshot_8.png](media/image/Screenshot_8.png)
+
 #### Пример dashboard с результатами запуска
+
+![Screenshot_9.png](media/image/Screenshot_9.png)
 
 #### История запуска тестовых наборов
 
+![Screenshot_10.png](media/image/Screenshot_10.png)
 ---
 <a id="jira"></a>
 
@@ -159,14 +168,15 @@
 
 ### [Ссылка на задачу в Jira](https://jira.autotests.cloud/browse/HOMEWORK-1568)
 
+![Screenshot_11.png](media/image/Screenshot_11.png)
 ![Screenshot_13.png](media/image/Screenshot_13.png)
-![Screenshot_14.png](media/image/Screenshot_14.png)
+
 ---
 <a id="telegram"></a>
 
 ### <img src="media/icons/tg.png" width="30"> Оповещение о результатах прогона тестов в Telegram
 
-![Screenshot_11.png](media/image/Screenshot_11.png)
+![Screenshot_14.png](media/image/Screenshot_14.png)
 
 ---
 <a id="video"></a>
