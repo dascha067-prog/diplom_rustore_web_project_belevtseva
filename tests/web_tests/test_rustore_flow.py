@@ -7,7 +7,9 @@ from pages.home_page import HomePage
 @allure.epic("RuStore Web UI")
 @allure.feature("Main flow")
 @allure.tag("ui", "web")
-@pytest.mark.ui
+@allure.label("layer", "ui")
+@allure.label("owner", "Belevtseva Darya")
+@pytest.mark.api
 class TestRuStoreFlow:
 
     @allure.title("Главная: пункты меню отображаются")

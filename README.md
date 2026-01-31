@@ -115,7 +115,7 @@
 
 ### <img src="media/icons/allure_report.png" width="30">  Allure отчет
 
-### [Ссылка на проект в Allure](
+### [Ссылка на проект в Allure](https://jenkins.autotests.cloud/job/diplom_rustore_web_project_belevtseva/20/allure/)
 
 #### Формирование отчета:
 
@@ -144,23 +144,13 @@
 
 #### Общий список всех тест-кейсов
 
-![Screenshot_6.png](media/image/Screenshot_6.png)
-
 #### Автоматизированные и ручные тесты хранятся в одной директории
-
-![Screenshot_7.png](media/image/Screenshot_7.png)
 
 #### Пример отчёта выполнения одного из автотестов
 
-![Screenshot_8.png](media/image/Screenshot_8.png)
-
 #### Пример dashboard с результатами запуска
 
-![Screenshot_9.png](media/image/Screenshot_9.png)
-
 #### История запуска тестовых наборов
-
-![Screenshot_10.png](media/image/Screenshot_10.png)
 
 ---
 <a id="jira"></a>
