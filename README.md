@@ -6,19 +6,20 @@
 
 ## 📖 Содержание
 
-- Описание проекта
-- Что проверяется (UI-тесты)
-- Технологии и инструменты
+- <a href="#about">Описание проекта</a>
+- <a href="#ui-tests">Что проверяется (UI-тесты)</a>
+- <a href="#tools">Технологии и инструменты</a>
 - Запуск тестов
-    - Jenkins
+    - <a href="#jenkins">Jenkins</a>
 - Отчёты
-    - Allure
-    - Allure TestOps
-    - Jira
-- Оповещение о результатах прогона тестов в Telegram
-- Пример видео прохождения UI-автотестов
+    - <a href="#allure">Allure</a>
+    - <a href="#allure-testops">Allure TestOps</a>
+    - <a href="#jira">Jira</a>
+- <a href="#telegram">Оповещение в Telegram</a>
+- <a href="#video">Пример видео прохождения UI-автотестов</a>
 
 ---
+<a id="about"></a>
 
 ## ✅ Описание проекта
 
@@ -33,6 +34,7 @@
 ---
 <h3> Список проверок, реализованных в автотестах:</h3>
 
+<a id="ui-tests"></a>
 ### UI-тесты
 
 ✅Проверка главной страницы RuStore
@@ -52,7 +54,7 @@
 * Очистка поля поиска
 
 ---
-
+<a id="tools"></a>
 ### Проект реализован с использованием:
 
 <p>
@@ -90,7 +92,7 @@
 5. Запустить тесты в командной строке
 
 ---
-
+<a id="jenkins"></a>
 ### <img width="30" title="Jenkins" src="media/icons/jenkins.png"> Удаленный запуск автотестов выполняется на сервере Jenkins
 
 ### [Ссылка на сборку в Jenkins](https://jenkins.autotests.cloud/job/diplom_rustore_web_project_belevtseva/)
@@ -106,8 +108,10 @@
    ![Запуск проекта в Jenkins](media/image/Screenshot_1.png)
 
 ---
+<a id="allure"></a>
 
 ### <img src="media/icons/allure_report.png" width="30">  Allure отчет
+### [Ссылка на проект в Allure](
 
 #### Формирование отчета:
 
@@ -124,7 +128,7 @@
 теста,а так же позволяет оперативно понять причину падения теста.
 
 ---
-
+<a id="allure-testops"></a>
 ### <img src="media/icons/allure_testops.png" width="30 "> Интеграция с Allure
 
 ### [Ссылка на проект в Allure TestOps](https://allure.autotests.cloud/project/5085/dashboards)
@@ -154,7 +158,7 @@
 ![Screenshot_10.png](media/image/Screenshot_10.png)
 
 ---
-
+<a id="jira"></a>
 ### <img src="media/icons/jira.png" width="30"> Интеграция с Jira
 
 ### [Ссылка на задачу в Jira](https://jira.autotests.cloud/browse/HOMEWORK-1568)
@@ -162,13 +166,13 @@
 ![Screenshot_13.png](media/image/Screenshot_13.png)
 ![Screenshot_14.png](media/image/Screenshot_14.png)
 ---
-
+<a id="telegram"></a>
 ### <img src="media/icons/tg.png" width="30"> Оповещение о результатах прогона тестов в Telegram
 
 ![Screenshot_11.png](media/image/Screenshot_11.png)
 
 ---
-
+<a id="video"></a> 
 ### Пример видео прохождения ui-автотеста
 
-![8fb61d61c7a69a9c6a27f182c6ccb4ce-ezgif.com-crop.gif](media/image/8fb61d61c7a69a9c6a27f182c6ccb4ce-ezgif.com-crop.gif)
+![4b67ec8a07191a074f158f2e64f2633d-ezgif.com-video-to-gif-converter.gif](media/image/4b67ec8a07191a074f158f2e64f2633d-ezgif.com-video-to-gif-converter.gif)

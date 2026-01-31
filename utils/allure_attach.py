@@ -22,12 +22,16 @@ def add_html(driver):
     allure.attach(html, "page_source", AttachmentType.HTML, ".html")
 
 
-def add_video(driver):
-    video_url = f"https://selenoid.autotests.cloud/video/{driver.session_id}.mp4"
-
-    html = (
-        "<html><body><video width='100%' height='100%' controls autoplay>"
-        f"<source src='{video_url}' type='video/mp4'></video></body></html>"
-    )
-
-    allure.attach(html, f"video_{driver.session_id}", AttachmentType.HTML, ".html")
+def add_video(session_id: str, selenoid_base_url: str):
+    video_url = f"{selenoid_base_url.rstrip('/')}/video/{session_id}.mp4"
+    html = f"""
+    <html>
+      <body>
+        <p><a href="{video_url}" target="_blank">Open video</a></p>
+        <video width="100%" height="100%" controls>
+          <source src="{video_url}" type="video/mp4">
+        </video>
+      </body>
+    </html>
+    """
+    allure.attach(html, name="video", attachment_type=allure.attachment_type.HTML)
